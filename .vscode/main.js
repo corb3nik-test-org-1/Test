@@ -4,7 +4,7 @@
 //  API: https://code.visualstudio.com/api/references/vscode-api
 
 function activate(_context) {
-  console.log("Corb", window)
+  console.log("Corb3nik-log", window)
    window.showInformationMessage('Hello, World!');
 }
 
