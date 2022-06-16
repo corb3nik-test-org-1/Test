@@ -3,7 +3,7 @@
     // Configure properties specific to VS Code.
     "vscode": {
         "settings": {},
-        "extensions": ["dd007db9-2fe6-4a9c-bd58-433cce6261b6"],
+        //"extensions": ["dd007db9-2fe6-4a9c-bd58-433cce6261b6"],
         "devPort": {}
     }
   }
